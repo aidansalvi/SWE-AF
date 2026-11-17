@@ -29,7 +29,7 @@ serde_json = "1"
 sha2 = "0.10"
 
 # LRU eviction cache for compiled bytecode.
-lru = "0.12"
+lru = "0.16"
 
 [dev-dependencies]
 criterion = { version = "0.5", features = ["html_reports"] }
